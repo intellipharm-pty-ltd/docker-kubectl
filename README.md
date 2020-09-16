@@ -1,6 +1,6 @@
 # Docker-kubectl
 
-Minimal docker image containing bash, kubectl & gettext. nothing more, nothing less
+Minimal docker image containing bash, kubectl, jq & gettext. nothing more, nothing less
 
 # 1.8.4 changes
 
